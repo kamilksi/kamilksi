@@ -21,9 +21,10 @@ I am a beginner Flutter developer, If I don't know how to do something, I look f
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 </br>
 
-## Projects 💼
+## Projects currently working on 💼
 
-<h2> Mantis APP & Mantis API </h2>
+<li><h4> Mantis APP & Mantis API </h4></li>
+<li><h4> Netflix clone </h4></li>
 
 <!---
 kamilksi/kamilksi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
