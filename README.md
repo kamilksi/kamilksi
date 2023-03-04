@@ -6,10 +6,15 @@
 Hi, I’m @kamilksi
 </h3>
 <h2>
-I am an aspiring Flutter Developer. 📱
+Aspiring Flutter Developer. 📱
 </h2>
 
-## Skills 🔧
+## About me 
+<h4>
+I am a beginner Flutter developer, If I don't know how to do something, I look for answers. 
+</h4>
+
+## Skills 💻
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
